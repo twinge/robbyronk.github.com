@@ -136,4 +136,4 @@ Database should:
 - Store stuff
 
 Database should not:
-- Have any business logic unless you have performance needs and proof that the DB is more performant
+- Have any business logic ~~unless you have performance needs and proof that the DB is more performant~~
